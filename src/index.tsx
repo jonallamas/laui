@@ -1,1 +1,1 @@
-export * from '@/components/UI/Text';
+export * from './components/UI/Text';
